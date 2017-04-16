@@ -16,10 +16,6 @@ machine:
     dev.mycompany.com: 127.0.0.1
 
   # Add some environment variables
-  environment:
-    CIRCLE_ENV: test
-    DATABASE_URL: postgresql://ubuntu:@127.0.0.1:5432/circle_test
-
 ## Customize checkout
 checkout:
   post:

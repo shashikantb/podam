@@ -1,8 +1,1 @@
 
-## Customize the test machine
-machine:
-
-  timezone:
-    America/Los_Angeles # Set the timezone
-
-  
